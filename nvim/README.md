@@ -1,4 +1,3 @@
-# 💤 LazyVim
+## Modified Lazyvim optimized for LaTeX writing in real time
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+I have a series of snippets written in lua imported from a port of the late Gilles Castel (RIP). Some vimtex stuff, some personal modifications, etc, etc. Lots of other snippets are written directly into the tex in VimNotes files on my other repository. 
