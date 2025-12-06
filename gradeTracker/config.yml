@@ -1,0 +1,6 @@
+data_file: /Users/stephens1/.config/gradeTracker/data.yaml
+ignore_unmarked: true
+# data_file: "/home/user/path/to/data/file"
+indent_string: "  "
+post_string: "%"
+total_weighting_tolerance: 5

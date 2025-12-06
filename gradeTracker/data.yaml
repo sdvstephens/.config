@@ -1,0 +1,28 @@
+modules:
+  - module: Year 1
+    weighting: 20
+    modules:
+      - module: Module 1
+        weighting: 60
+        modules:
+          - module: Assignment 1
+            weighting: 30
+            percent: 80
+          - module: Assignment 2
+            weighting: 70
+            percent: 40
+      - module: Module 2
+        weighting: 20
+        percent: 25
+      - module: Module 3
+        weighting: 20
+        percent: 25
+  - module: Year 2
+    weighting: 30
+    modules:
+      - module: Module 1
+        weighting: 50
+      - module: Module 2
+        weighting: 50
+  - module: Year 3
+    weighting: 50

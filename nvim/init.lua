@@ -30,3 +30,12 @@ vim.keymap.set("i", "<C-f>", function()
   InsertFigure()
   vim.cmd("startinsert")
 end, { desc = "Insert figure (insert mode)" })
+
+-- Make VimTeX scan preamble for custom commands
+--vim.g.vimtex_parser_bib_backend = "bibtex"
+--vim.g.vimtex_complete_close_braces = 1
+--vim.g.vimtex_complete_enabled = 1
+--vim.g.vimtex_complete_smart_case = 1
+
+-- This is the KEY setting - tells VimTeX to parse \input files
+-- vim.g.vimtex_parser_cmd_separator_check = "\\(input\\|include\\)"

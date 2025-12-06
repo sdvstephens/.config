@@ -1,0 +1,426 @@
+{
+    "remarkable1": {
+        "3.20.0.92": [
+            "remarkable-production-image-3.20.0.92-rm1-public.swu",
+            "a7558d9ef4b2bcc41d9a9219822a1e7e34bff46851658dcfd9666856401e9728"
+        ],
+        "3.19.0.82": [
+            "remarkable-production-image-3.19.0.82-rm1-public.swu",
+            "210a1ba88135fb1027e9267cb357909380ce00672f646cc3f2005118e31612fd"
+        ],
+        "3.18.1.1": [
+            "remarkable-production-image-3.18.1.1-rm1-public.swu",
+            "2290a526eb9599e3f65a6b538080eb870a4e5440627c1044a82ef17a981b4e4a"
+        ],
+        "3.17.0.72": [
+            "remarkable-production-memfault-image-3.17.0.72-rm1-public.swu",
+            "05d4b64e3919be29c531790dc38db4ea1236ae6557bcc6444f7316388224c2bc"
+        ],
+        "3.16.2.3": [
+            "remarkable-production-memfault-image-3.16.2.3-rm1-public.swu",
+            "f43f6b5a55c828dd0912cd4fe6e9e46e03ce841a04e292abeaa15eb60c884fd1"
+        ],
+        "3.16.1.0": [
+            "remarkable-production-memfault-image-3.16.1.0-rm1-public.swu",
+            "89350eecdc8185d0814cdd13ae2330fc7f91069b2bbd6268a48f31cdc9e94861"
+        ],
+        "3.15.4.2": [
+            "remarkable-production-memfault-image-3.15.4.2-rm1-public.swu",
+            "6e8e581cc12de4bf2f46bfebd785aaea2f9a88ebf770d191dbad49a341c270bd"
+        ],
+        "3.15.3.1": [
+            "remarkable-production-memfault-image-3.15.3.1-rm1-public.swu",
+            "03a6ff64df69da292ebf82286e361b95d3ddeb1958618fe1c9e302bc6403c7f4"
+        ],
+        "3.14.1.9": [
+            "remarkable-production-memfault-image-3.14.1.9-rm1-public.swu",
+            "d2293e3395bb966708465efbf9c1d28718f8d7f2d14c95bb69c62b0153f07bae"
+        ],
+        "3.13.2.0": [
+            "remarkable-production-memfault-image-3.13.2.0-rm1-public.swu",
+            "a0be8e1d53ea3b7dc500c8b8564ab21e14e9dbaaec665549787c444cbc428eb9"
+        ],
+        "3.13.1.2": [
+            "remarkable-production-memfault-image-3.13.1.2-rm1-public.swu",
+            "0e7f92c46e355c2e35b45f8fa2bb5a6e3ba1191424da692fb6facac0d5233a6a"
+        ],
+        "3.12.4.4": [
+            "remarkable-production-memfault-image-3.12.4.4-rm1-public.swu",
+            "a735ccc2175625d38a270b523ff9c1c29f801cb662da085c06af23d945152e07"
+        ],
+        "3.12.4.3": [
+            "remarkable-production-memfault-image-3.12.4.3-rm1-public.swu",
+            "1bd3d76cb773aaa40a1cc3c745a5ed0b3313ad9147316b589853efa4d1a5865d"
+        ],
+        "3.11.3.3": [
+            "remarkable-production-memfault-image-3.11.3.3-rm1-public.swu",
+            "37c8a4a61a59fdd6e893e75ce48b9f0283e41718b00aeebc3da81f9f7fa1006c"
+        ],
+        "3.11.2.5": [
+            "ShunAN3V1W",
+            "2ad14c56caca60f4db19b55297519f1507a36b042c6aad3fb31fde41ba15ffb8"
+        ],
+        "3.10.2.2063": [
+            "NXiSL3XohA",
+            "508d97e773f86fd67d1f7b6379b7b9b9bf7eb4945148286d898b1ae00f3d5c72"
+        ],
+        "3.9.5.2026": [
+            "dkcJxJw3e5",
+            "a141cb1381660670630d2132a287470dd385e2e6ff9354bb23969b7ac64d9234"
+        ],
+        "3.9.4.2018": [
+            "EptYHsKUvv",
+            "005ef63d04f60ea575c44843c8c5603e8c0905b3e6cc0c9f3d567ef610815f1a"
+        ],
+        "3.9.3.1986": [
+            "0141xi6GBe",
+            "874d213c13aa6fadcc6b018efdc224ce1a7b826174058db474d30d87a587dc84"
+        ],
+        "3.8.2.1965": [
+            "ENRo0iD1yG",
+            "d395bbb1282ad9b8719c59bbfac888e9598bb2143570a8b31f687e745a0c4163"
+        ],
+        "3.6.1.1894": [
+            "CGaIOXfzAA",
+            "2f1f36d9895fad68ef06ecef1d70065fddca4311d3c5adcfb17f365197e09216"
+        ],
+        "3.6.0.1865": [
+            "nnuJzg6Jj4-",
+            "d5df978f1240dff73b71849d1c225afb0868adcea072547254d87191eeaa9573"
+        ],
+        "3.5.2.1807": [
+            "UGWiACaUG0-",
+            "d80e4d8c7a2fb54c0d4a900b5d7124a18d33f1aec1039627a8086a54b5caed35"
+        ],
+        "3.5.1.1798": [
+            "cR2nzMvbcW-",
+            "8a9ac4e80e175681d83b627ca8d68a49223a88910a781be8c2e9bd3a29980cdb"
+        ],
+        "3.4.1.1790": [
+            "SgjzSG56eK-",
+            "6e885bb4ecf5fc9bb2c64403a0dadcb5c41237c12e8f1c8f148a82c067a07b66"
+        ],
+        "3.4.0.1784": [
+            "yY5ri2SbLv-",
+            "a1baaa6eb3ecafba54030d9cb22ee6c915a277c8cd3b288a57c80fc72a112876"
+        ],
+        "3.3.2.1666": [
+            "Ak1sdSSGWD-",
+            "9f1ed453241901ecbbae9bc62a567b5cea1df10cc69d9be38ebb1e56a88f8d68"
+        ],
+        "3.2.3.1595": [
+            "f99Lsgx3BG-",
+            "f7ae13c24cbf6259f48b6434167f2060e1543ccfbefd00608097f4c85ee5b3bb"
+        ],
+        "3.2.2.1581": [
+            "rsTV6U3FlH-",
+            "6a7bcf1dfef61bed9c72da9627f32a0ea27c166479322c88b55819fddc4293cb"
+        ],
+        "3.0.4.1305": [
+            "zo0ubu5Wle-",
+            "3ec0f158f98a481dadee47c18c310a8efdefd3c41c1c7f259507c617464db6a9"
+        ],
+        "2.15.1.1189": [
+            "Xdvv3lBmE4-",
+            "ef4529e3f11e17cffeaad203cc7d3704ecdfdc0bc7f5a81a7bd092a6edc99b3a"
+        ],
+        "2.15.0.1067": [
+            "qbGuCuFIX7-",
+            "490b82d23ef415523ae5df5141216f60af2f6fe9a47f2e4fa0c7546dc81720b2"
+        ],
+        "2.14.3.977": [
+            "uzKCb761HZ-",
+            "ca3a5e501467e58ac6adbd384525d1ad3d91701a001ba2e3d9c53e298f60a9b3"
+        ],
+        "2.14.3.958": [
+            "DgsusjCrfd-",
+            "d2330b5051fec82df3d06722ec6e6b61a863040f407694aadcfb77c60663afb2"
+        ],
+        "2.14.3.1047": [
+            "mQ3OMMnn0v-",
+            "55be77d62b587af7116fff9564669e5f7efa33780d375667491e990e2778713d"
+        ],
+        "2.14.3.1005": [
+            "nKHKu5aVAR-",
+            "f539e5499e223d1463ed7e0a1c557b8bcf3bcddf352a4701dfd33fa7a7df9f6f"
+        ],
+        "2.14.1.866": [
+            "kPA6NrLNoo-",
+            "8f1df03a057d98839eab2b769455330d51b483a4bfde3831379a66adbc426dea"
+        ],
+        "2.14.0.861": [
+            "r6qAtH141a-",
+            "657ecfcf86820e28b9f636a77947609ce9d52141c40a9529313f1a543eaab41d"
+        ],
+        "2.13.0.758": [
+            "K7IjoRHW9V-",
+            "79f3ff86b0d4f8ab2bdc7f11bf5e8721ef0ebf84acace1910f2b2d79849c8d33"
+        ],
+        "2.12.3.606": [
+            "DtbTMBso9w-",
+            "70108b45de2033fa42dd3c5ac915743b6fb312ac546b6232b5e3419b7723435a"
+        ],
+        "2.12.2.573": [
+            "F7KCxN9Zpp-",
+            "76705e3a00cd87489aaa52df7e9b98e1002b64ce3916a2379d2ce68725bc2ba0"
+        ],
+        "2.12.1.527": [
+            "xKvumVvxqC-",
+            "d76304a2a0e1c27433ff627461a3af1032c902cc508edc2614df815f2395d02e"
+        ],
+        "2.11.0.442": [
+            "3QEYXIWu4Z-",
+            "b9398f5c9ef82a8f9394dc2fec6d1fe30fef0458ec927c492a54f88849760b17"
+        ],
+        "2.10.3.379": [
+            "2UgGBK40nD-",
+            "52c44ec69148190771b72bbc56b3b96d543ecd2b2ff8c57ed0a2be095a5aae28"
+        ],
+        "2.10.2.356": [
+            "Lp90j3g4at-",
+            "d12390956ceea52a3cf6c8e412e8e489c2b4ef262f9cba66695bfc43d7cb1dff"
+        ]
+    },
+    "remarkable2": {
+        "3.17.0.72": [
+            "remarkable-production-memfault-image-3.17.0.72-rm2-public.swu",
+            "508f63bcae0b43e812d7afb4fbea42d11947e57abd63bc2538adb2884cbfba78"
+        ],
+        "3.20.0.92": [
+            "remarkable-production-image-3.20.0.92-rm2-public.swu",
+            "18adc25ff3f63176d7e0066cbbc76fbb4d3f89df11d4507d695bea1ce8d3268b"
+        ],
+        "3.19.0.82": [
+            "remarkable-production-image-3.19.0.82-rm2-public.swu",
+            "0e8700b3cc99edf37af7c7311792d6fa1f9f43823b7183ee2036f49b896d0158"
+        ],
+        "3.18.2.3": [
+            "remarkable-production-image-3.18.2.3-rm2-public.swu",
+            "a2eafb2f9736c6f0ed43608880de293b8b9ecca2317a534bd8dd3e58ad87d39d"
+        ],
+        "3.18.1.1": [
+            "remarkable-production-image-3.18.1.1-rm2-public.swu",
+            "5cbc3e09e9663ce4611aeec12207d7f69a3d13ebe572949c382c9796580c67b1"
+        ],
+        "3.16.2.3": [
+            "remarkable-production-memfault-image-3.16.2.3-rm2-public.swu",
+            "2a92f37c8b5ac66afb6d0702fa76b5ff7d34a4b852bcb4d2a5085b2a6b4053fd"
+        ],
+        "3.16.1.0": [
+            "remarkable-production-memfault-image-3.16.1.0-rm2-public.swu",
+            "a5bee59c3eeedbfbb79ba4c485b335bf310e75f64a86002015fb4c5859207bca"
+        ],
+        "3.15.4.2": [
+            "remarkable-production-memfault-image-3.15.4.2-rm2-public.swu",
+            "c2e1107508114f9289ccbed86a3ece475ddfb54a825780a2548e3237cf3976a2"
+        ],
+        "3.14.1.9": [
+            "remarkable-production-memfault-image-3.14.1.9-rm2-public.swu",
+            "f3394019dbfec3628eec1aee4502d00bd8af1921ed2bcd9edfa01221e445df32"
+        ],
+        "3.13.2.0": [
+            "remarkable-production-memfault-image-3.13.2.0-rm2-public.swu",
+            "331be43421a3a655a5b886c583917341c9912f0aa056d3475b83906dfa9720f5"
+        ],
+        "3.13.1.2": [
+            "remarkable-production-memfault-image-3.13.1.2-rm2-public.swu",
+            "cbd3fc3de77b152aa04e4098b621b52de0f1b053d3652f7d54e14b654711f80c"
+        ],
+        "3.12.4.4": [
+            "remarkable-production-memfault-image-3.12.4.4-rm2-public.swu",
+            "a15448464e34c868674134b656707823aac305e6b7e1fe1882d3d60182947088"
+        ],
+        "3.12.4.3": [
+            "remarkable-production-memfault-image-3.12.4.3-rm2-public.swu",
+            "a1780b93e27f226e03496b41419acd53eb8caf531c4768d7675f2589ae419aaa"
+        ],
+        "3.11.3.3": [
+            "remarkable-production-memfault-image-3.11.3.3-rm2-public.swu",
+            "cb4a598c575acbab2a4480b13521a97def846337a46b856feb778a190f9d5b47"
+        ],
+        "3.11.2.5": [
+            "qLFGoqPtPL",
+            "a86afd842c6f1e5b33f4bbc10ec8360ce1789ab1c6caef75324619e0ab859cdb"
+        ],
+        "3.10.2.2063": [
+            "zKnOgdh8c5",
+            "db0da1138106d62f01e533919fe9f4800207361b1ecbf34732cbfe7020291d54"
+        ],
+        "3.9.5.2026": [
+            "7Mtxk3FUms",
+            "e91232517986d58faffb4ff0cbd034f5a2f5e7af9920b43d12fd86e7bf510051"
+        ],
+        "3.9.4.2018": [
+            "dg5knKZECj",
+            "3907334416f57e574c60d0dc9f8b116da9c869da7b04a866d848f08f39fe1399"
+        ],
+        "3.9.3.1986": [
+            "T1fuxwo40r",
+            "f2270150ce2c838c5217f0bf75f43402cb65895d52b3ea555cc61d587a57b5ab"
+        ],
+        "3.8.3.1976": [
+            "M795riZ0Z8",
+            "ca14b36305f88376d8da99b0e143d7bad1997aa08fd5eb832bd9532421ef4839"
+        ],
+        "3.8.2.1965": [
+            "D1pFxylu6p",
+            "6505e93c7e1815f001761d10225812fa534bdb44baefae8143167b6db4d907f6"
+        ],
+        "3.8.0.1944": [
+            "7eGpAv7sYB",
+            "b286ce36371687cbfc55ce2b269659b347f1daec6993058a35d569b91f4ec75d"
+        ],
+        "3.7.0.1930": [
+            "XSMSQgBATy",
+            "dc9975dca40826f6dd53e6790056a0128dd7c76dbb956001dad0c56d4c408a5f"
+        ],
+        "3.6.1.1894": [
+            "T2dkdktE1H",
+            "1b759556c16269cba957897e943d871e8ba6528fc3b2a3a025f05594346abce0"
+        ],
+        "3.6.0.1865": [
+            "7wgexMSZP5-",
+            "f90e1973cfca6e40fdb018c29aa194df501fa1016a7f3ce6b11e17fa05ceb36b"
+        ],
+        "3.5.2.1807": [
+            "3bZjC0Xn5C-",
+            "98c2609aac772af18df8083b2d1c46bcf7ee048192ff650a982c5046044127f4"
+        ],
+        "3.5.1.1798": [
+            "9CfoVp8qCU-",
+            "71ef0398e1b2fef3bd7188472b7a6e5a8e503105bad51a0b8e253f0c179881b3"
+        ],
+        "3.4.1.1790": [
+            "rYfHxYmwC8-",
+            "034d76a872476eabffeb5edc1b1d4f2dc183a3677500f3ba454fe384dbe4fb54"
+        ],
+        "3.4.0.1784": [
+            "fD3GCOcU9m-",
+            "6e3e5783ebfdcb634ee69b8e826646cb51ea243a468f9bd615037889a8e5d53d"
+        ],
+        "3.3.2.1666": [
+            "ihUirIf133-",
+            "aa19d53094f5c620d9ac8d594befd27c0a7e7f9a2ab44f6bf2b4637860ac7cb6"
+        ],
+        "3.2.3.1595": [
+            "fTtpld3Mvn-",
+            "9e04a52f2a92cbe5cbe704bac7182b7e0c5575cb64eac3b3b86da3c17e818083"
+        ],
+        "3.2.2.1581": [
+            "dwyp884gLP-",
+            "4e4765140524f9926c40ac32c02bf404bfffda3d05ca5f3becdebfd9de77b57a"
+        ],
+        "3.0.4.1305": [
+            "tdwbuIzhYP-",
+            "dbfa0ae483b0f9fe4b8f96a809b05c95615e294607af600fc3dc75b01a2ed8ab"
+        ],
+        "2.15.1.1189": [
+            "wVbHkgKisg-",
+            "07dc873072e7fe52e6c4d508efe70bdb463dcd4bfe6b9165ba3d5d259776d04c"
+        ],
+        "2.15.0.1067": [
+            "lyC7KAjjSB-",
+            "ada1a2a62f955d5c598d12bbd30d651076c01a536f99b045e79f83e9e4acea98"
+        ],
+        "2.14.3.977": [
+            "joPqAABTAW-",
+            "59d4e024a145703fa0325ffff3f600711a4af323c50655b9343c348056d73ebb"
+        ],
+        "2.14.3.958": [
+            "B7yhC887i1-",
+            "97bf2d4a68b448f43948d08b0542795909420b8dd87ca8ba4aa15d58f6f37abe"
+        ],
+        "2.14.3.1047": [
+            "RGLmy8Jb39-",
+            "0bc58296187211b0efe9b171e76882ad060ceed9f6d3e3a6cf07224fd56732ed"
+        ],
+        "2.14.3.1005": [
+            "4HCZ7J2Bse-",
+            "74c384bbe68f114e7a8ac780104f57f7ffd7cebba4e101271d235cd45bc96ac7"
+        ],
+        "2.14.1.866": [
+            "JLWa2mnXu1-",
+            "c87490101ca3b817ca58dfdf472e363edf4ef670362c1321ca595b41c87aebe9"
+        ],
+        "2.14.0.861": [
+            "TfpToxrexR-",
+            "efc9b184def5ba95120a2d989cdd90549703b62829c98d49f5cf4ad38219615d"
+        ],
+        "2.13.0.758": [
+            "2N5B5nvpZ4-",
+            "9d5dcd475b65f31295bd4247ab149984a572eb226c29c8e907de56aa4ad7330b"
+        ],
+        "2.12.3.606": [
+            "XOSYryyJXI-",
+            "93819d75de3b4f79a271d022698456ed08ceda9b463992ec191fb2827c265b0f"
+        ],
+        "2.12.2.573": [
+            "XnE1EL7ojK-",
+            "9e7eaf89b9973e90a48c722ba208322f6e62ce54f1343c2b98fc1ac2b823ceca"
+        ],
+        "2.12.1.527": [
+            "8OkCxOJFn9-",
+            "0bdebf6c60b9634f3df645db286d690585ab55b803a50b0fb9636d91c5853f26"
+        ],
+        "2.11.0.442": [
+            "tJDDwsDM4V-",
+            "1aeeb086be0b22bc9e8e3b966b9d29ca50e0d4561c29bb6e496ed7ff2c24ea27"
+        ],
+        "2.10.3.379": [
+            "n16KxgSfCk-",
+            "9e68e89b4128318094113f11d4accc650e43c8a66dc33dd68f762e1d4de33804"
+        ],
+        "2.10.2.356": [
+            "JLB6Ax3hnJ-",
+            "abde0fac3d12f7599a167414e2871fd340fe10312bc5cb1b65af958b4f5f0736"
+        ]
+    },
+    "remarkablepp": {
+        "3.20.0.92": [
+            "remarkable-production-image-3.20.0.92-ferrari-public.swu",
+            "a63c1573aa26ed3e1f7e5dded3eb4adc09710515b2d2b1964ff397c94243ba89"
+        ],
+        "3.19.0.82": [
+            "remarkable-production-image-3.19.0.82-ferrari-public.swu",
+            "484af7a81c4a4a37f57fda4936c4aa1cc1b5e3d6ffd1c22c756f832b95e41de6"
+        ],
+        "3.18.2.3": [
+            "remarkable-production-image-3.18.2.3-ferrari-public.swu",
+            "ab770acb4f16a606b69e3057b96e226d10d402abe41f423d8ff5dcbb6e73601c"
+        ],
+        "3.18.1.1": [
+            "remarkable-production-image-3.18.1.1-ferrari-public.swu",
+            "8ab001cecf0ad7d1ec3c7c595fcdaa1709a062accece0943f23ddfd8e4565d41"
+        ],
+        "3.17.0.72": [
+            "remarkable-production-image-3.17.0.72-ferrari-public.swu",
+            "398f0490d41d08603b4984f66a73c4e2b1ab8d6a8148af833279e6af9989d6d3"
+        ],
+        "3.16.2.3": [
+            "remarkable-ct-prototype-image-3.16.2.3-ferrari-public.swu",
+            "b76579c03fc2e91ecdc30a175b9eb50d403a4bfbc9657cdcefe8aa2c3c9a3b9a"
+        ],
+        "3.16.1.0": [
+            "remarkable-ct-prototype-image-3.16.1.0-ferrari-public.swu",
+            "730c76a9cbf16415f4c00a6b60a96cf0ffa0b61c092504dc79520efaa74f9bfc"
+        ],
+        "3.15.4.2": [
+            "remarkable-ct-prototype-image-3.15.4.2-ferrari-public.swu",
+            "e0db4681888d2294c768906e7a564bc06d936dbb5e9fefc1529cf7a438dae628"
+        ],
+        "3.14.4.0": [
+            "remarkable-ct-prototype-image-3.14.4.0-ferrari-public.swu",
+            "4c93cbc85c061520421c71a4b99ec30ef25e41c077e40d542e068db272900a1e"
+        ],
+        "3.14.3.0": [
+            "remarkable-ct-prototype-image-3.14.3.0-ferrari-public.swu",
+            "ad1c28c9031f0b14a6a897b50ccfd402e6c0711d5d129edd8cfa03879d473073"
+        ],
+        "3.14.1.10": [
+            "remarkable-ct-prototype-image-3.14.1.10-ferrari-public.swu",
+            "8c92f589900e7e355697206c71e2256d909313fcd96aa2c5fd9910ff04b062f1"
+        ]
+    },
+    "last-updated": 1751286637,
+    "external-provider-url": "https://storage.googleapis.com/remarkable-versions/REPLACE_ID"
+}
