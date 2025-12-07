@@ -1,5 +1,13 @@
 function fish_greeting
     fastfetch
+    
+    # Show pending tasks
+    set -l task_count (task status:pending count 2>/dev/null)
+    if test "$task_count" -gt 0
+        echo ""
+        echo "📋 Tasks ($task_count pending):"
+        task rc.verbose=nothing list limit:10 2>/dev/null
+    end
 end
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!

@@ -24,11 +24,6 @@
     "battery",
     "poweradapter",
     "locale",
-    {
-      "type": "command",
-      "key": "Tasks",
-      "text": "task rc.verbose=nothing rc.report.next.columns=id,description rc.report.next.labels=ID,Task limit:5 2>/dev/null || echo 'No tasks'"
-    },
     "break",
     "colors"
   ]
